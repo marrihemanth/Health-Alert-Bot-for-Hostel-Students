@@ -65,7 +65,9 @@ Log Saved Successfully.
 ### 📚 Research Insights
 **Common Illnesses & Remedies :**
    **Flu** : Rest (Modern), Tulsi tea (Ayurveda), Oscillococcinum (Homeopathy).
+   
    **Allergies** : Antihistamines (Modern), Neem water (Ayurveda), Natrum Mur (Homeopathy).
+   
    **Acidity** : Antacids (Modern), Amla juice (Ayurveda), Nux Vomica (Homeopathy).
 
 ### 👥 Team
