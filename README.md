@@ -59,7 +59,7 @@ This project is part of a hackathon submission and demonstrates the integration 
 ## 💻 Installation
 
 ### Prerequisites
-- Python 3.x installed on your system. Download it from [here](https://www.python.org/downloads/).
+- Python 3.6 installed on your system. Download it from [here](https://www.python.org/downloads/).
 
 ## 💻 Setup  
 ```bash
