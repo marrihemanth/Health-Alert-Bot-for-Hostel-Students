@@ -6,19 +6,6 @@ A **Command Line Interface (CLI)-based Health Alert Bot** designed to assist hos
 
 ---
 
-## 📋 Table of Contents
-
-1. [Overview](#Overview)
-2. [Features](#Features)
-3. [Installation](#Installation)
-4. [Usage](#Usage)
-5. [Sample Input/Output](#sample-inputoutput)
-6. [Research Component](#research-component)
-7. [Contributors](#contributors)
-8. [License](#license)
-
----
-
 ## 📝 Overview
 
 The **Health Alert Bot** is a CLI-based tool aimed at helping hostel students:
@@ -77,9 +64,9 @@ Log Saved Successfully.
 ```
 ### 📚 Research Insights
 **Common Illnesses & Remedies :**
-   Flu : Rest (Modern), Tulsi tea (Ayurveda), Oscillococcinum (Homeopathy).
-   Allergies : Antihistamines (Modern), Neem water (Ayurveda), Natrum Mur (Homeopathy).
-   Acidity : Antacids (Modern), Amla juice (Ayurveda), Nux Vomica (Homeopathy).
+   **Flu** : Rest (Modern), Tulsi tea (Ayurveda), Oscillococcinum (Homeopathy).
+   **Allergies** : Antihistamines (Modern), Neem water (Ayurveda), Natrum Mur (Homeopathy).
+   **Acidity** : Antacids (Modern), Amla juice (Ayurveda), Nux Vomica (Homeopathy).
 
 ### 👥 Team
 Hemanth Marri (Developer), Swathi Parvatham (Modern Medicine/Homeopathy), Preetham Rao (Ayurveda/UI).
