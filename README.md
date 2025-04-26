@@ -71,7 +71,7 @@ Log Saved Successfully.
    **Acidity** : Antacids (Modern), Amla juice (Ayurveda), Nux Vomica (Homeopathy).
 
 ### 👥 Team
-Hemanth Marri (Developer), Swathi Parvatham (Modern Medicine/Homeopathy), Preetham Rao (Ayurveda/UI).
+**Hemanth Marri** (Developer), **Swathi Parvatham** (Modern Medicine/Homeopathy), **Preetham Rao** (Ayurveda/UI).
 
 ### 📞 Feedback
-**Email:** marrihemanth@gmail.com
+**Email:** marrihemanth@gmail.com , dpreerao@gmail.com , swathiparvatham18@gmail.com
