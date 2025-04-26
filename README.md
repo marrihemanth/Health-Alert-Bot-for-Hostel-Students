@@ -36,6 +36,12 @@ This project is part of a hackathon submission and demonstrates the integration 
 - **Customized Advice**: Offers personalized advice based on past health logs.
 - **Research Component**: Includes insights on 5 common seasonal illnesses and their remedies.
 
+### ⚠️ Safety Features  
+1. **Consultation Alerts**:  
+   - Warns users to consult a doctor if symptoms persist beyond a threshold (e.g., fever >3 days).  
+2. **Remedy Disclaimer**:  
+   - Explicitly advises against mixing Modern, Ayurveda, and Homeopathy remedies.    
+
 ---
 
 ## 💻 Installation
