@@ -1,12 +1,14 @@
 ## Ayurvedic Menu Flow
 
-**Learn about Ayurveda**
+
+## **Learn about Ayurveda**
       |
       V
-**What has to exist, exists, no matter what way the world changes. Any science, that is applicable survives through different generations and flows from one generation to another. Nature has its unique way to make or break a system, and we remain just an onlooker, erased by the passage of time! So Ayurveda is a science which has faced the turmoil of all times and is still emerging as a leading alternative health care system. Ayurveda is the world’s oldest science of health care.  The written tradition dates back around 5,000 years, but the oral tradition of this science is timeless.**
+
+## **What has to exist, exists, no matter what way the world changes. Any science, that is applicable survives through different generations and flows from one generation to another. Nature has its unique way to make or break a system, and we remain just an onlooker, erased by the passage of time! So Ayurveda is a science which has faced the turmoil of all times and is still emerging as a leading alternative health care system. Ayurveda is the world’s oldest science of health care.  The written tradition dates back around 5,000 years, but the oral tradition of this science is timeless.**
       |
       V
-**The Basic Principles of Ayurveda
+## **The Basic Principles of Ayurveda
 There are three basic fundamental biological humours described by Ayurveda- The Vata, Pitta and Kapha also called the “tri-energies”. These are the ones who are totally controlling the universe and are responsible for planetary movements (Vata), their formation and destruction (Pitta) and generation and maintenance of new life (Kapha). Same tri-energies are found inside every living being and are responsible for health and disease. Their balance is “health” or “harmony” whereas the imbalance is “disease” or “chaos”.**
 
 **These govern all the processes in all levels of our life.  Vata governs all movement, Pitta all heat and transformation and Kapha all growth, structure and lubrication.**
@@ -14,11 +16,11 @@ There are three basic fundamental biological humours described by Ayurveda- The 
 **Our diet, our behavior, the seasons, emotions and our life style all have impact on balance of tri energies. The main principal of healing in Ayurveda is to maintain the balance of Vata, Pitta and Kapha by alteration in our lifestyle, our thoughts, our diet and understanding nature and through herbal medicines.**
       |
       V
-< RETURN TO MENU OR EXIT > || < Samadosha samagnisch samadhatu malakriya
+## < RETURN TO MENU OR EXIT > || < Samadosha samagnisch samadhatu malakriya
 Prasanna atma mana swastha iti abhidhiyate. (Sanskrit Verse) > 
                                       |
                                       V
-                                      It States that:-
+                                     ## It States that:-
 **Having a balanced state of Doshas, Agni (digestive fire), Dhatus (tissues) and normal functioning of Mala (waste products), cheerful state of Atman (soul), sensory organs and mind are the symptoms of healthy life.**
 
 **If “Vata” gets out of balance, for instance, it leads to overactive mind, poor circulation, poor nerve conduction, loss of memory, irregular elimination & uncomfortable menses etc – all things related to movement.
