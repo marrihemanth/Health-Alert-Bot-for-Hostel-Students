@@ -36,7 +36,8 @@ This project is part of a hackathon submission and demonstrates the integration 
 - **Customized Advice**: Offers personalized advice based on past health logs.
 - **Research Component**: Includes insights on 5 common seasonal illnesses and their remedies.
 
-  ### 👤 User Registration System
+
+  ### 👤User Registration System
 - Secure patient ID system (format: HST-YYYY-XXXX)
 - Comprehensive user profiles with medical history
 - Multi-user support with login/logout functionality
