@@ -8,10 +8,10 @@ A **Command Line Interface (CLI)-based Health Alert Bot** designed to assist hos
 
 ## 📋 Table of Contents
 
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
+1. [Overview](#Overview)
+2. [Features](#Features)
+3. [Installation](#Installation)
+4. [Usage](#Usage)
 5. [Sample Input/Output](#sample-inputoutput)
 6. [Research Component](#research-component)
 7. [Contributors](#contributors)
@@ -56,7 +56,33 @@ This project is part of a hackathon submission and demonstrates the integration 
 ### Prerequisites
 - Python 3.x installed on your system. Download it from [here](https://www.python.org/downloads/).
 
-### Steps to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/health-alert-bot.git
+## 💻 Setup  
+```bash
+# Clone and run
+git clone https://github.com/your-username/health-alert-bot.git
+cd health-alert-bot
+pip install -r requirements.txt
+python health_bot.py
+```
+### 🚀 Usage Example
+```bash
+Enter Symptoms: fever, sore throat  
+Do you want to save this log? (yes/no): yes  
+
+# Output:
+Possible Issue: Common Cold  
+Remedy: Take paracetamol, rest.  
+Advice: Consult a doctor if fever lasts >3 days.  
+Log Saved Successfully.
+```
+### 📚 Research Insights
+**Common Illnesses & Remedies :**
+   Flu : Rest (Modern), Tulsi tea (Ayurveda), Oscillococcinum (Homeopathy).
+   Allergies : Antihistamines (Modern), Neem water (Ayurveda), Natrum Mur (Homeopathy).
+   Acidity : Antacids (Modern), Amla juice (Ayurveda), Nux Vomica (Homeopathy).
+
+### 👥 Team
+Hemanth Marri (Developer), Swathi Parvatham (Modern Medicine/Homeopathy), Preetham Rao (Ayurveda/UI).
+
+### 📞 Feedback
+**Email:** marrihemanth@gmail.com
