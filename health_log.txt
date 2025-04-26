@@ -1,0 +1,15 @@
+Date: 2025-04-26 14:31:59
+Patient: Hemanth (ID: HST-2025-9183)
+Age: 19, Room: 303
+Symptoms: fever
+----------------------------------------
+Date: 2025-04-26 14:55:43
+Patient: Swathi parvatham (ID: HST-2025-1017)
+Age: 18, Room: 303
+Symptoms: fever, cold, caugh, headache
+Severity Ratings:
+  - fever: 3/4 (Severe - Significantly interfering with daily activities)
+  - cold: 2/4 (Moderate - Somewhat interfering with daily activities)
+  - caugh: 2/4 (Moderate - Somewhat interfering with daily activities)
+  - headache: 3/4 (Severe - Significantly interfering with daily activities)
+----------------------------------------
